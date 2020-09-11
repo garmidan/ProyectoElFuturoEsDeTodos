@@ -1,0 +1,9 @@
+#formulario{
+    width: 90%;
+    margin: 10px 0px 0px 50px;
+}
+
+#formulario h2{
+    color: red;
+    text-align: center;
+}
